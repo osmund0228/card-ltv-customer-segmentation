@@ -12,9 +12,10 @@
 
 군집화 변수 설계 및 팀원 업무 배정, LTV 회귀분석을 통한 회귀계수 도출, Lift 분석으로 지역별 업종·가맹점 특징 도출, 지역-군집 연결, LTV 상승 기대효과 분석
 
-## 최종 산출물
+## 발표 자료
 
-- 발표자료: `docs/미가(味家)_발표_자료.pdf`
+- 노션 링크: https://app.notion.com/p/398ccefbe7fa80408adbe9e7a5e8a6bd?source=copy_link
+- PDF 파일: `docs/미가(味家)_발표_자료.pdf`
 
 ## 주요 내용 및 성과
 
